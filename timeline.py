@@ -1,6 +1,7 @@
 import pandas as pd
 import math
 import matplotlib.pyplot as plt
+import numpy as np
 
 class Timelines:
 
@@ -99,3 +100,5 @@ class Timelines:
         ax2.set_ylim(20, 100)
 
         plt.show()
+
+
